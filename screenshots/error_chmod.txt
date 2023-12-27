@@ -1,0 +1,532 @@
+chmod: invalid mode: ‘8’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘9’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘18’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘19’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘28’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘29’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘38’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘39’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘48’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘49’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘58’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘59’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘68’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘69’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘78’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘79’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘80’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘81’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘82’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘83’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘84’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘85’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘86’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘87’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘88’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘89’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘90’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘91’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘92’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘93’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘94’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘95’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘96’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘97’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘98’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘99’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘108’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘109’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘118’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘119’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘128’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘129’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘138’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘139’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘148’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘149’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘158’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘159’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘168’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘169’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘178’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘179’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘180’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘181’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘182’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘183’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘184’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘185’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘186’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘187’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘188’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘189’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘190’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘191’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘192’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘193’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘194’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘195’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘196’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘197’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘198’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘199’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘208’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘209’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘218’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘219’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘228’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘229’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘238’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘239’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘248’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘249’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘258’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘259’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘268’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘269’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘278’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘279’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘280’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘281’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘282’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘283’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘284’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘285’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘286’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘287’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘288’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘289’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘290’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘291’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘292’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘293’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘294’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘295’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘296’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘297’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘298’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘299’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘308’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘309’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘318’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘319’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘328’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘329’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘338’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘339’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘348’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘349’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘358’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘359’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘368’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘369’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘378’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘379’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘380’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘381’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘382’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘383’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘384’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘385’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘386’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘387’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘388’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘389’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘390’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘391’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘392’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘393’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘394’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘395’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘396’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘397’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘398’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘399’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘408’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘409’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘418’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘419’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘428’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘429’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘438’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘439’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘448’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘449’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘458’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘459’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘468’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘469’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘478’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘479’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘480’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘481’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘482’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘483’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘484’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘485’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘486’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘487’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘488’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘489’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘490’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘491’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘492’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘493’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘494’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘495’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘496’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘497’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘498’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘499’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘508’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘509’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘518’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘519’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘528’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘529’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘538’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘539’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘548’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘549’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘558’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘559’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘568’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘569’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘578’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘579’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘580’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘581’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘582’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘583’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘584’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘585’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘586’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘587’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘588’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘589’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘590’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘591’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘592’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘593’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘594’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘595’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘596’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘597’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘598’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘599’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘608’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘609’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘618’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘619’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘628’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘629’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘638’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘639’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘648’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘649’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘658’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘659’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘668’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘669’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘678’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘679’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘680’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘681’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘682’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘683’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘684’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘685’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘686’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘687’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘688’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘689’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘690’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘691’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘692’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘693’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘694’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘695’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘696’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘697’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘698’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘699’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘708’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘709’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘718’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘719’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘728’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘729’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘738’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘739’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘748’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘749’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘758’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘759’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘768’
+Try 'chmod --help' for more information.
+chmod: invalid mode: ‘769’
+Try 'chmod --help' for more information.

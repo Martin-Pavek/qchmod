@@ -1,0 +1,3890 @@
+0
+---------- aaa
+chmod souboru aaa = 0
+d--------- bbb
+chmod adresare bbb = 0
+1
+---------x aaa
+chmod souboru aaa = 1
+d--------x bbb
+chmod adresare bbb = 1
+2
+--------w- aaa
+chmod souboru aaa = 2
+d-------w- bbb
+chmod adresare bbb = 2
+3
+--------wx aaa
+chmod souboru aaa = 3
+d-------wx bbb
+chmod adresare bbb = 3
+4
+-------r-- aaa
+chmod souboru aaa = 4
+d------r-- bbb
+chmod adresare bbb = 4
+5
+-------r-x aaa
+chmod souboru aaa = 5
+d------r-x bbb
+chmod adresare bbb = 5
+6
+-------rw- aaa
+chmod souboru aaa = 6
+d------rw- bbb
+chmod adresare bbb = 6
+7
+-------rwx aaa
+chmod souboru aaa = 7
+d------rwx bbb
+chmod adresare bbb = 7
+8
+-------rwx aaa
+chmod souboru aaa = 7
+d------rwx bbb
+chmod adresare bbb = 7
+9
+-------rwx aaa
+chmod souboru aaa = 7
+d------rwx bbb
+chmod adresare bbb = 7
+10
+------x--- aaa
+chmod souboru aaa = 10
+d-----x--- bbb
+chmod adresare bbb = 10
+11
+------x--x aaa
+chmod souboru aaa = 11
+d-----x--x bbb
+chmod adresare bbb = 11
+12
+------x-w- aaa
+chmod souboru aaa = 12
+d-----x-w- bbb
+chmod adresare bbb = 12
+13
+------x-wx aaa
+chmod souboru aaa = 13
+d-----x-wx bbb
+chmod adresare bbb = 13
+14
+------xr-- aaa
+chmod souboru aaa = 14
+d-----xr-- bbb
+chmod adresare bbb = 14
+15
+------xr-x aaa
+chmod souboru aaa = 15
+d-----xr-x bbb
+chmod adresare bbb = 15
+16
+------xrw- aaa
+chmod souboru aaa = 16
+d-----xrw- bbb
+chmod adresare bbb = 16
+17
+------xrwx aaa
+chmod souboru aaa = 17
+d-----xrwx bbb
+chmod adresare bbb = 17
+18
+------xrwx aaa
+chmod souboru aaa = 17
+d-----xrwx bbb
+chmod adresare bbb = 17
+19
+------xrwx aaa
+chmod souboru aaa = 17
+d-----xrwx bbb
+chmod adresare bbb = 17
+20
+-----w---- aaa
+chmod souboru aaa = 20
+d----w---- bbb
+chmod adresare bbb = 20
+21
+-----w---x aaa
+chmod souboru aaa = 21
+d----w---x bbb
+chmod adresare bbb = 21
+22
+-----w--w- aaa
+chmod souboru aaa = 22
+d----w--w- bbb
+chmod adresare bbb = 22
+23
+-----w--wx aaa
+chmod souboru aaa = 23
+d----w--wx bbb
+chmod adresare bbb = 23
+24
+-----w-r-- aaa
+chmod souboru aaa = 24
+d----w-r-- bbb
+chmod adresare bbb = 24
+25
+-----w-r-x aaa
+chmod souboru aaa = 25
+d----w-r-x bbb
+chmod adresare bbb = 25
+26
+-----w-rw- aaa
+chmod souboru aaa = 26
+d----w-rw- bbb
+chmod adresare bbb = 26
+27
+-----w-rwx aaa
+chmod souboru aaa = 27
+d----w-rwx bbb
+chmod adresare bbb = 27
+28
+-----w-rwx aaa
+chmod souboru aaa = 27
+d----w-rwx bbb
+chmod adresare bbb = 27
+29
+-----w-rwx aaa
+chmod souboru aaa = 27
+d----w-rwx bbb
+chmod adresare bbb = 27
+30
+-----wx--- aaa
+chmod souboru aaa = 30
+d----wx--- bbb
+chmod adresare bbb = 30
+31
+-----wx--x aaa
+chmod souboru aaa = 31
+d----wx--x bbb
+chmod adresare bbb = 31
+32
+-----wx-w- aaa
+chmod souboru aaa = 32
+d----wx-w- bbb
+chmod adresare bbb = 32
+33
+-----wx-wx aaa
+chmod souboru aaa = 33
+d----wx-wx bbb
+chmod adresare bbb = 33
+34
+-----wxr-- aaa
+chmod souboru aaa = 34
+d----wxr-- bbb
+chmod adresare bbb = 34
+35
+-----wxr-x aaa
+chmod souboru aaa = 35
+d----wxr-x bbb
+chmod adresare bbb = 35
+36
+-----wxrw- aaa
+chmod souboru aaa = 36
+d----wxrw- bbb
+chmod adresare bbb = 36
+37
+-----wxrwx aaa
+chmod souboru aaa = 37
+d----wxrwx bbb
+chmod adresare bbb = 37
+38
+-----wxrwx aaa
+chmod souboru aaa = 37
+d----wxrwx bbb
+chmod adresare bbb = 37
+39
+-----wxrwx aaa
+chmod souboru aaa = 37
+d----wxrwx bbb
+chmod adresare bbb = 37
+40
+----r----- aaa
+chmod souboru aaa = 40
+d---r----- bbb
+chmod adresare bbb = 40
+41
+----r----x aaa
+chmod souboru aaa = 41
+d---r----x bbb
+chmod adresare bbb = 41
+42
+----r---w- aaa
+chmod souboru aaa = 42
+d---r---w- bbb
+chmod adresare bbb = 42
+43
+----r---wx aaa
+chmod souboru aaa = 43
+d---r---wx bbb
+chmod adresare bbb = 43
+44
+----r--r-- aaa
+chmod souboru aaa = 44
+d---r--r-- bbb
+chmod adresare bbb = 44
+45
+----r--r-x aaa
+chmod souboru aaa = 45
+d---r--r-x bbb
+chmod adresare bbb = 45
+46
+----r--rw- aaa
+chmod souboru aaa = 46
+d---r--rw- bbb
+chmod adresare bbb = 46
+47
+----r--rwx aaa
+chmod souboru aaa = 47
+d---r--rwx bbb
+chmod adresare bbb = 47
+48
+----r--rwx aaa
+chmod souboru aaa = 47
+d---r--rwx bbb
+chmod adresare bbb = 47
+49
+----r--rwx aaa
+chmod souboru aaa = 47
+d---r--rwx bbb
+chmod adresare bbb = 47
+50
+----r-x--- aaa
+chmod souboru aaa = 50
+d---r-x--- bbb
+chmod adresare bbb = 50
+51
+----r-x--x aaa
+chmod souboru aaa = 51
+d---r-x--x bbb
+chmod adresare bbb = 51
+52
+----r-x-w- aaa
+chmod souboru aaa = 52
+d---r-x-w- bbb
+chmod adresare bbb = 52
+53
+----r-x-wx aaa
+chmod souboru aaa = 53
+d---r-x-wx bbb
+chmod adresare bbb = 53
+54
+----r-xr-- aaa
+chmod souboru aaa = 54
+d---r-xr-- bbb
+chmod adresare bbb = 54
+55
+----r-xr-x aaa
+chmod souboru aaa = 55
+d---r-xr-x bbb
+chmod adresare bbb = 55
+56
+----r-xrw- aaa
+chmod souboru aaa = 56
+d---r-xrw- bbb
+chmod adresare bbb = 56
+57
+----r-xrwx aaa
+chmod souboru aaa = 57
+d---r-xrwx bbb
+chmod adresare bbb = 57
+58
+----r-xrwx aaa
+chmod souboru aaa = 57
+d---r-xrwx bbb
+chmod adresare bbb = 57
+59
+----r-xrwx aaa
+chmod souboru aaa = 57
+d---r-xrwx bbb
+chmod adresare bbb = 57
+60
+----rw---- aaa
+chmod souboru aaa = 60
+d---rw---- bbb
+chmod adresare bbb = 60
+61
+----rw---x aaa
+chmod souboru aaa = 61
+d---rw---x bbb
+chmod adresare bbb = 61
+62
+----rw--w- aaa
+chmod souboru aaa = 62
+d---rw--w- bbb
+chmod adresare bbb = 62
+63
+----rw--wx aaa
+chmod souboru aaa = 63
+d---rw--wx bbb
+chmod adresare bbb = 63
+64
+----rw-r-- aaa
+chmod souboru aaa = 64
+d---rw-r-- bbb
+chmod adresare bbb = 64
+65
+----rw-r-x aaa
+chmod souboru aaa = 65
+d---rw-r-x bbb
+chmod adresare bbb = 65
+66
+----rw-rw- aaa
+chmod souboru aaa = 66
+d---rw-rw- bbb
+chmod adresare bbb = 66
+67
+----rw-rwx aaa
+chmod souboru aaa = 67
+d---rw-rwx bbb
+chmod adresare bbb = 67
+68
+----rw-rwx aaa
+chmod souboru aaa = 67
+d---rw-rwx bbb
+chmod adresare bbb = 67
+69
+----rw-rwx aaa
+chmod souboru aaa = 67
+d---rw-rwx bbb
+chmod adresare bbb = 67
+70
+----rwx--- aaa
+chmod souboru aaa = 70
+d---rwx--- bbb
+chmod adresare bbb = 70
+71
+----rwx--x aaa
+chmod souboru aaa = 71
+d---rwx--x bbb
+chmod adresare bbb = 71
+72
+----rwx-w- aaa
+chmod souboru aaa = 72
+d---rwx-w- bbb
+chmod adresare bbb = 72
+73
+----rwx-wx aaa
+chmod souboru aaa = 73
+d---rwx-wx bbb
+chmod adresare bbb = 73
+74
+----rwxr-- aaa
+chmod souboru aaa = 74
+d---rwxr-- bbb
+chmod adresare bbb = 74
+75
+----rwxr-x aaa
+chmod souboru aaa = 75
+d---rwxr-x bbb
+chmod adresare bbb = 75
+76
+----rwxrw- aaa
+chmod souboru aaa = 76
+d---rwxrw- bbb
+chmod adresare bbb = 76
+77
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+78
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+79
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+80
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+81
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+82
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+83
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+84
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+85
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+86
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+87
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+88
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+89
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+90
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+91
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+92
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+93
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+94
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+95
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+96
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+97
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+98
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+99
+----rwxrwx aaa
+chmod souboru aaa = 77
+d---rwxrwx bbb
+chmod adresare bbb = 77
+100
+---x------ aaa
+chmod souboru aaa = 100
+d--x------ bbb
+chmod adresare bbb = 100
+101
+---x-----x aaa
+chmod souboru aaa = 101
+d--x-----x bbb
+chmod adresare bbb = 101
+102
+---x----w- aaa
+chmod souboru aaa = 102
+d--x----w- bbb
+chmod adresare bbb = 102
+103
+---x----wx aaa
+chmod souboru aaa = 103
+d--x----wx bbb
+chmod adresare bbb = 103
+104
+---x---r-- aaa
+chmod souboru aaa = 104
+d--x---r-- bbb
+chmod adresare bbb = 104
+105
+---x---r-x aaa
+chmod souboru aaa = 105
+d--x---r-x bbb
+chmod adresare bbb = 105
+106
+---x---rw- aaa
+chmod souboru aaa = 106
+d--x---rw- bbb
+chmod adresare bbb = 106
+107
+---x---rwx aaa
+chmod souboru aaa = 107
+d--x---rwx bbb
+chmod adresare bbb = 107
+108
+---x---rwx aaa
+chmod souboru aaa = 107
+d--x---rwx bbb
+chmod adresare bbb = 107
+109
+---x---rwx aaa
+chmod souboru aaa = 107
+d--x---rwx bbb
+chmod adresare bbb = 107
+110
+---x--x--- aaa
+chmod souboru aaa = 110
+d--x--x--- bbb
+chmod adresare bbb = 110
+111
+---x--x--x aaa
+chmod souboru aaa = 111
+d--x--x--x bbb
+chmod adresare bbb = 111
+112
+---x--x-w- aaa
+chmod souboru aaa = 112
+d--x--x-w- bbb
+chmod adresare bbb = 112
+113
+---x--x-wx aaa
+chmod souboru aaa = 113
+d--x--x-wx bbb
+chmod adresare bbb = 113
+114
+---x--xr-- aaa
+chmod souboru aaa = 114
+d--x--xr-- bbb
+chmod adresare bbb = 114
+115
+---x--xr-x aaa
+chmod souboru aaa = 115
+d--x--xr-x bbb
+chmod adresare bbb = 115
+116
+---x--xrw- aaa
+chmod souboru aaa = 116
+d--x--xrw- bbb
+chmod adresare bbb = 116
+117
+---x--xrwx aaa
+chmod souboru aaa = 117
+d--x--xrwx bbb
+chmod adresare bbb = 117
+118
+---x--xrwx aaa
+chmod souboru aaa = 117
+d--x--xrwx bbb
+chmod adresare bbb = 117
+119
+---x--xrwx aaa
+chmod souboru aaa = 117
+d--x--xrwx bbb
+chmod adresare bbb = 117
+120
+---x-w---- aaa
+chmod souboru aaa = 120
+d--x-w---- bbb
+chmod adresare bbb = 120
+121
+---x-w---x aaa
+chmod souboru aaa = 121
+d--x-w---x bbb
+chmod adresare bbb = 121
+122
+---x-w--w- aaa
+chmod souboru aaa = 122
+d--x-w--w- bbb
+chmod adresare bbb = 122
+123
+---x-w--wx aaa
+chmod souboru aaa = 123
+d--x-w--wx bbb
+chmod adresare bbb = 123
+124
+---x-w-r-- aaa
+chmod souboru aaa = 124
+d--x-w-r-- bbb
+chmod adresare bbb = 124
+125
+---x-w-r-x aaa
+chmod souboru aaa = 125
+d--x-w-r-x bbb
+chmod adresare bbb = 125
+126
+---x-w-rw- aaa
+chmod souboru aaa = 126
+d--x-w-rw- bbb
+chmod adresare bbb = 126
+127
+---x-w-rwx aaa
+chmod souboru aaa = 127
+d--x-w-rwx bbb
+chmod adresare bbb = 127
+128
+---x-w-rwx aaa
+chmod souboru aaa = 127
+d--x-w-rwx bbb
+chmod adresare bbb = 127
+129
+---x-w-rwx aaa
+chmod souboru aaa = 127
+d--x-w-rwx bbb
+chmod adresare bbb = 127
+130
+---x-wx--- aaa
+chmod souboru aaa = 130
+d--x-wx--- bbb
+chmod adresare bbb = 130
+131
+---x-wx--x aaa
+chmod souboru aaa = 131
+d--x-wx--x bbb
+chmod adresare bbb = 131
+132
+---x-wx-w- aaa
+chmod souboru aaa = 132
+d--x-wx-w- bbb
+chmod adresare bbb = 132
+133
+---x-wx-wx aaa
+chmod souboru aaa = 133
+d--x-wx-wx bbb
+chmod adresare bbb = 133
+134
+---x-wxr-- aaa
+chmod souboru aaa = 134
+d--x-wxr-- bbb
+chmod adresare bbb = 134
+135
+---x-wxr-x aaa
+chmod souboru aaa = 135
+d--x-wxr-x bbb
+chmod adresare bbb = 135
+136
+---x-wxrw- aaa
+chmod souboru aaa = 136
+d--x-wxrw- bbb
+chmod adresare bbb = 136
+137
+---x-wxrwx aaa
+chmod souboru aaa = 137
+d--x-wxrwx bbb
+chmod adresare bbb = 137
+138
+---x-wxrwx aaa
+chmod souboru aaa = 137
+d--x-wxrwx bbb
+chmod adresare bbb = 137
+139
+---x-wxrwx aaa
+chmod souboru aaa = 137
+d--x-wxrwx bbb
+chmod adresare bbb = 137
+140
+---xr----- aaa
+chmod souboru aaa = 140
+d--xr----- bbb
+chmod adresare bbb = 140
+141
+---xr----x aaa
+chmod souboru aaa = 141
+d--xr----x bbb
+chmod adresare bbb = 141
+142
+---xr---w- aaa
+chmod souboru aaa = 142
+d--xr---w- bbb
+chmod adresare bbb = 142
+143
+---xr---wx aaa
+chmod souboru aaa = 143
+d--xr---wx bbb
+chmod adresare bbb = 143
+144
+---xr--r-- aaa
+chmod souboru aaa = 144
+d--xr--r-- bbb
+chmod adresare bbb = 144
+145
+---xr--r-x aaa
+chmod souboru aaa = 145
+d--xr--r-x bbb
+chmod adresare bbb = 145
+146
+---xr--rw- aaa
+chmod souboru aaa = 146
+d--xr--rw- bbb
+chmod adresare bbb = 146
+147
+---xr--rwx aaa
+chmod souboru aaa = 147
+d--xr--rwx bbb
+chmod adresare bbb = 147
+148
+---xr--rwx aaa
+chmod souboru aaa = 147
+d--xr--rwx bbb
+chmod adresare bbb = 147
+149
+---xr--rwx aaa
+chmod souboru aaa = 147
+d--xr--rwx bbb
+chmod adresare bbb = 147
+150
+---xr-x--- aaa
+chmod souboru aaa = 150
+d--xr-x--- bbb
+chmod adresare bbb = 150
+151
+---xr-x--x aaa
+chmod souboru aaa = 151
+d--xr-x--x bbb
+chmod adresare bbb = 151
+152
+---xr-x-w- aaa
+chmod souboru aaa = 152
+d--xr-x-w- bbb
+chmod adresare bbb = 152
+153
+---xr-x-wx aaa
+chmod souboru aaa = 153
+d--xr-x-wx bbb
+chmod adresare bbb = 153
+154
+---xr-xr-- aaa
+chmod souboru aaa = 154
+d--xr-xr-- bbb
+chmod adresare bbb = 154
+155
+---xr-xr-x aaa
+chmod souboru aaa = 155
+d--xr-xr-x bbb
+chmod adresare bbb = 155
+156
+---xr-xrw- aaa
+chmod souboru aaa = 156
+d--xr-xrw- bbb
+chmod adresare bbb = 156
+157
+---xr-xrwx aaa
+chmod souboru aaa = 157
+d--xr-xrwx bbb
+chmod adresare bbb = 157
+158
+---xr-xrwx aaa
+chmod souboru aaa = 157
+d--xr-xrwx bbb
+chmod adresare bbb = 157
+159
+---xr-xrwx aaa
+chmod souboru aaa = 157
+d--xr-xrwx bbb
+chmod adresare bbb = 157
+160
+---xrw---- aaa
+chmod souboru aaa = 160
+d--xrw---- bbb
+chmod adresare bbb = 160
+161
+---xrw---x aaa
+chmod souboru aaa = 161
+d--xrw---x bbb
+chmod adresare bbb = 161
+162
+---xrw--w- aaa
+chmod souboru aaa = 162
+d--xrw--w- bbb
+chmod adresare bbb = 162
+163
+---xrw--wx aaa
+chmod souboru aaa = 163
+d--xrw--wx bbb
+chmod adresare bbb = 163
+164
+---xrw-r-- aaa
+chmod souboru aaa = 164
+d--xrw-r-- bbb
+chmod adresare bbb = 164
+165
+---xrw-r-x aaa
+chmod souboru aaa = 165
+d--xrw-r-x bbb
+chmod adresare bbb = 165
+166
+---xrw-rw- aaa
+chmod souboru aaa = 166
+d--xrw-rw- bbb
+chmod adresare bbb = 166
+167
+---xrw-rwx aaa
+chmod souboru aaa = 167
+d--xrw-rwx bbb
+chmod adresare bbb = 167
+168
+---xrw-rwx aaa
+chmod souboru aaa = 167
+d--xrw-rwx bbb
+chmod adresare bbb = 167
+169
+---xrw-rwx aaa
+chmod souboru aaa = 167
+d--xrw-rwx bbb
+chmod adresare bbb = 167
+170
+---xrwx--- aaa
+chmod souboru aaa = 170
+d--xrwx--- bbb
+chmod adresare bbb = 170
+171
+---xrwx--x aaa
+chmod souboru aaa = 171
+d--xrwx--x bbb
+chmod adresare bbb = 171
+172
+---xrwx-w- aaa
+chmod souboru aaa = 172
+d--xrwx-w- bbb
+chmod adresare bbb = 172
+173
+---xrwx-wx aaa
+chmod souboru aaa = 173
+d--xrwx-wx bbb
+chmod adresare bbb = 173
+174
+---xrwxr-- aaa
+chmod souboru aaa = 174
+d--xrwxr-- bbb
+chmod adresare bbb = 174
+175
+---xrwxr-x aaa
+chmod souboru aaa = 175
+d--xrwxr-x bbb
+chmod adresare bbb = 175
+176
+---xrwxrw- aaa
+chmod souboru aaa = 176
+d--xrwxrw- bbb
+chmod adresare bbb = 176
+177
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+178
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+179
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+180
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+181
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+182
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+183
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+184
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+185
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+186
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+187
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+188
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+189
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+190
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+191
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+192
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+193
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+194
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+195
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+196
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+197
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+198
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+199
+---xrwxrwx aaa
+chmod souboru aaa = 177
+d--xrwxrwx bbb
+chmod adresare bbb = 177
+200
+--w------- aaa
+chmod souboru aaa = 200
+d-w------- bbb
+chmod adresare bbb = 200
+201
+--w------x aaa
+chmod souboru aaa = 201
+d-w------x bbb
+chmod adresare bbb = 201
+202
+--w-----w- aaa
+chmod souboru aaa = 202
+d-w-----w- bbb
+chmod adresare bbb = 202
+203
+--w-----wx aaa
+chmod souboru aaa = 203
+d-w-----wx bbb
+chmod adresare bbb = 203
+204
+--w----r-- aaa
+chmod souboru aaa = 204
+d-w----r-- bbb
+chmod adresare bbb = 204
+205
+--w----r-x aaa
+chmod souboru aaa = 205
+d-w----r-x bbb
+chmod adresare bbb = 205
+206
+--w----rw- aaa
+chmod souboru aaa = 206
+d-w----rw- bbb
+chmod adresare bbb = 206
+207
+--w----rwx aaa
+chmod souboru aaa = 207
+d-w----rwx bbb
+chmod adresare bbb = 207
+208
+--w----rwx aaa
+chmod souboru aaa = 207
+d-w----rwx bbb
+chmod adresare bbb = 207
+209
+--w----rwx aaa
+chmod souboru aaa = 207
+d-w----rwx bbb
+chmod adresare bbb = 207
+210
+--w---x--- aaa
+chmod souboru aaa = 210
+d-w---x--- bbb
+chmod adresare bbb = 210
+211
+--w---x--x aaa
+chmod souboru aaa = 211
+d-w---x--x bbb
+chmod adresare bbb = 211
+212
+--w---x-w- aaa
+chmod souboru aaa = 212
+d-w---x-w- bbb
+chmod adresare bbb = 212
+213
+--w---x-wx aaa
+chmod souboru aaa = 213
+d-w---x-wx bbb
+chmod adresare bbb = 213
+214
+--w---xr-- aaa
+chmod souboru aaa = 214
+d-w---xr-- bbb
+chmod adresare bbb = 214
+215
+--w---xr-x aaa
+chmod souboru aaa = 215
+d-w---xr-x bbb
+chmod adresare bbb = 215
+216
+--w---xrw- aaa
+chmod souboru aaa = 216
+d-w---xrw- bbb
+chmod adresare bbb = 216
+217
+--w---xrwx aaa
+chmod souboru aaa = 217
+d-w---xrwx bbb
+chmod adresare bbb = 217
+218
+--w---xrwx aaa
+chmod souboru aaa = 217
+d-w---xrwx bbb
+chmod adresare bbb = 217
+219
+--w---xrwx aaa
+chmod souboru aaa = 217
+d-w---xrwx bbb
+chmod adresare bbb = 217
+220
+--w--w---- aaa
+chmod souboru aaa = 220
+d-w--w---- bbb
+chmod adresare bbb = 220
+221
+--w--w---x aaa
+chmod souboru aaa = 221
+d-w--w---x bbb
+chmod adresare bbb = 221
+222
+--w--w--w- aaa
+chmod souboru aaa = 222
+d-w--w--w- bbb
+chmod adresare bbb = 222
+223
+--w--w--wx aaa
+chmod souboru aaa = 223
+d-w--w--wx bbb
+chmod adresare bbb = 223
+224
+--w--w-r-- aaa
+chmod souboru aaa = 224
+d-w--w-r-- bbb
+chmod adresare bbb = 224
+225
+--w--w-r-x aaa
+chmod souboru aaa = 225
+d-w--w-r-x bbb
+chmod adresare bbb = 225
+226
+--w--w-rw- aaa
+chmod souboru aaa = 226
+d-w--w-rw- bbb
+chmod adresare bbb = 226
+227
+--w--w-rwx aaa
+chmod souboru aaa = 227
+d-w--w-rwx bbb
+chmod adresare bbb = 227
+228
+--w--w-rwx aaa
+chmod souboru aaa = 227
+d-w--w-rwx bbb
+chmod adresare bbb = 227
+229
+--w--w-rwx aaa
+chmod souboru aaa = 227
+d-w--w-rwx bbb
+chmod adresare bbb = 227
+230
+--w--wx--- aaa
+chmod souboru aaa = 230
+d-w--wx--- bbb
+chmod adresare bbb = 230
+231
+--w--wx--x aaa
+chmod souboru aaa = 231
+d-w--wx--x bbb
+chmod adresare bbb = 231
+232
+--w--wx-w- aaa
+chmod souboru aaa = 232
+d-w--wx-w- bbb
+chmod adresare bbb = 232
+233
+--w--wx-wx aaa
+chmod souboru aaa = 233
+d-w--wx-wx bbb
+chmod adresare bbb = 233
+234
+--w--wxr-- aaa
+chmod souboru aaa = 234
+d-w--wxr-- bbb
+chmod adresare bbb = 234
+235
+--w--wxr-x aaa
+chmod souboru aaa = 235
+d-w--wxr-x bbb
+chmod adresare bbb = 235
+236
+--w--wxrw- aaa
+chmod souboru aaa = 236
+d-w--wxrw- bbb
+chmod adresare bbb = 236
+237
+--w--wxrwx aaa
+chmod souboru aaa = 237
+d-w--wxrwx bbb
+chmod adresare bbb = 237
+238
+--w--wxrwx aaa
+chmod souboru aaa = 237
+d-w--wxrwx bbb
+chmod adresare bbb = 237
+239
+--w--wxrwx aaa
+chmod souboru aaa = 237
+d-w--wxrwx bbb
+chmod adresare bbb = 237
+240
+--w-r----- aaa
+chmod souboru aaa = 240
+d-w-r----- bbb
+chmod adresare bbb = 240
+241
+--w-r----x aaa
+chmod souboru aaa = 241
+d-w-r----x bbb
+chmod adresare bbb = 241
+242
+--w-r---w- aaa
+chmod souboru aaa = 242
+d-w-r---w- bbb
+chmod adresare bbb = 242
+243
+--w-r---wx aaa
+chmod souboru aaa = 243
+d-w-r---wx bbb
+chmod adresare bbb = 243
+244
+--w-r--r-- aaa
+chmod souboru aaa = 244
+d-w-r--r-- bbb
+chmod adresare bbb = 244
+245
+--w-r--r-x aaa
+chmod souboru aaa = 245
+d-w-r--r-x bbb
+chmod adresare bbb = 245
+246
+--w-r--rw- aaa
+chmod souboru aaa = 246
+d-w-r--rw- bbb
+chmod adresare bbb = 246
+247
+--w-r--rwx aaa
+chmod souboru aaa = 247
+d-w-r--rwx bbb
+chmod adresare bbb = 247
+248
+--w-r--rwx aaa
+chmod souboru aaa = 247
+d-w-r--rwx bbb
+chmod adresare bbb = 247
+249
+--w-r--rwx aaa
+chmod souboru aaa = 247
+d-w-r--rwx bbb
+chmod adresare bbb = 247
+250
+--w-r-x--- aaa
+chmod souboru aaa = 250
+d-w-r-x--- bbb
+chmod adresare bbb = 250
+251
+--w-r-x--x aaa
+chmod souboru aaa = 251
+d-w-r-x--x bbb
+chmod adresare bbb = 251
+252
+--w-r-x-w- aaa
+chmod souboru aaa = 252
+d-w-r-x-w- bbb
+chmod adresare bbb = 252
+253
+--w-r-x-wx aaa
+chmod souboru aaa = 253
+d-w-r-x-wx bbb
+chmod adresare bbb = 253
+254
+--w-r-xr-- aaa
+chmod souboru aaa = 254
+d-w-r-xr-- bbb
+chmod adresare bbb = 254
+255
+--w-r-xr-x aaa
+chmod souboru aaa = 255
+d-w-r-xr-x bbb
+chmod adresare bbb = 255
+256
+--w-r-xrw- aaa
+chmod souboru aaa = 256
+d-w-r-xrw- bbb
+chmod adresare bbb = 256
+257
+--w-r-xrwx aaa
+chmod souboru aaa = 257
+d-w-r-xrwx bbb
+chmod adresare bbb = 257
+258
+--w-r-xrwx aaa
+chmod souboru aaa = 257
+d-w-r-xrwx bbb
+chmod adresare bbb = 257
+259
+--w-r-xrwx aaa
+chmod souboru aaa = 257
+d-w-r-xrwx bbb
+chmod adresare bbb = 257
+260
+--w-rw---- aaa
+chmod souboru aaa = 260
+d-w-rw---- bbb
+chmod adresare bbb = 260
+261
+--w-rw---x aaa
+chmod souboru aaa = 261
+d-w-rw---x bbb
+chmod adresare bbb = 261
+262
+--w-rw--w- aaa
+chmod souboru aaa = 262
+d-w-rw--w- bbb
+chmod adresare bbb = 262
+263
+--w-rw--wx aaa
+chmod souboru aaa = 263
+d-w-rw--wx bbb
+chmod adresare bbb = 263
+264
+--w-rw-r-- aaa
+chmod souboru aaa = 264
+d-w-rw-r-- bbb
+chmod adresare bbb = 264
+265
+--w-rw-r-x aaa
+chmod souboru aaa = 265
+d-w-rw-r-x bbb
+chmod adresare bbb = 265
+266
+--w-rw-rw- aaa
+chmod souboru aaa = 266
+d-w-rw-rw- bbb
+chmod adresare bbb = 266
+267
+--w-rw-rwx aaa
+chmod souboru aaa = 267
+d-w-rw-rwx bbb
+chmod adresare bbb = 267
+268
+--w-rw-rwx aaa
+chmod souboru aaa = 267
+d-w-rw-rwx bbb
+chmod adresare bbb = 267
+269
+--w-rw-rwx aaa
+chmod souboru aaa = 267
+d-w-rw-rwx bbb
+chmod adresare bbb = 267
+270
+--w-rwx--- aaa
+chmod souboru aaa = 270
+d-w-rwx--- bbb
+chmod adresare bbb = 270
+271
+--w-rwx--x aaa
+chmod souboru aaa = 271
+d-w-rwx--x bbb
+chmod adresare bbb = 271
+272
+--w-rwx-w- aaa
+chmod souboru aaa = 272
+d-w-rwx-w- bbb
+chmod adresare bbb = 272
+273
+--w-rwx-wx aaa
+chmod souboru aaa = 273
+d-w-rwx-wx bbb
+chmod adresare bbb = 273
+274
+--w-rwxr-- aaa
+chmod souboru aaa = 274
+d-w-rwxr-- bbb
+chmod adresare bbb = 274
+275
+--w-rwxr-x aaa
+chmod souboru aaa = 275
+d-w-rwxr-x bbb
+chmod adresare bbb = 275
+276
+--w-rwxrw- aaa
+chmod souboru aaa = 276
+d-w-rwxrw- bbb
+chmod adresare bbb = 276
+277
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+278
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+279
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+280
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+281
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+282
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+283
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+284
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+285
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+286
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+287
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+288
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+289
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+290
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+291
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+292
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+293
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+294
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+295
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+296
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+297
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+298
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+299
+--w-rwxrwx aaa
+chmod souboru aaa = 277
+d-w-rwxrwx bbb
+chmod adresare bbb = 277
+300
+--wx------ aaa
+chmod souboru aaa = 300
+d-wx------ bbb
+chmod adresare bbb = 300
+301
+--wx-----x aaa
+chmod souboru aaa = 301
+d-wx-----x bbb
+chmod adresare bbb = 301
+302
+--wx----w- aaa
+chmod souboru aaa = 302
+d-wx----w- bbb
+chmod adresare bbb = 302
+303
+--wx----wx aaa
+chmod souboru aaa = 303
+d-wx----wx bbb
+chmod adresare bbb = 303
+304
+--wx---r-- aaa
+chmod souboru aaa = 304
+d-wx---r-- bbb
+chmod adresare bbb = 304
+305
+--wx---r-x aaa
+chmod souboru aaa = 305
+d-wx---r-x bbb
+chmod adresare bbb = 305
+306
+--wx---rw- aaa
+chmod souboru aaa = 306
+d-wx---rw- bbb
+chmod adresare bbb = 306
+307
+--wx---rwx aaa
+chmod souboru aaa = 307
+d-wx---rwx bbb
+chmod adresare bbb = 307
+308
+--wx---rwx aaa
+chmod souboru aaa = 307
+d-wx---rwx bbb
+chmod adresare bbb = 307
+309
+--wx---rwx aaa
+chmod souboru aaa = 307
+d-wx---rwx bbb
+chmod adresare bbb = 307
+310
+--wx--x--- aaa
+chmod souboru aaa = 310
+d-wx--x--- bbb
+chmod adresare bbb = 310
+311
+--wx--x--x aaa
+chmod souboru aaa = 311
+d-wx--x--x bbb
+chmod adresare bbb = 311
+312
+--wx--x-w- aaa
+chmod souboru aaa = 312
+d-wx--x-w- bbb
+chmod adresare bbb = 312
+313
+--wx--x-wx aaa
+chmod souboru aaa = 313
+d-wx--x-wx bbb
+chmod adresare bbb = 313
+314
+--wx--xr-- aaa
+chmod souboru aaa = 314
+d-wx--xr-- bbb
+chmod adresare bbb = 314
+315
+--wx--xr-x aaa
+chmod souboru aaa = 315
+d-wx--xr-x bbb
+chmod adresare bbb = 315
+316
+--wx--xrw- aaa
+chmod souboru aaa = 316
+d-wx--xrw- bbb
+chmod adresare bbb = 316
+317
+--wx--xrwx aaa
+chmod souboru aaa = 317
+d-wx--xrwx bbb
+chmod adresare bbb = 317
+318
+--wx--xrwx aaa
+chmod souboru aaa = 317
+d-wx--xrwx bbb
+chmod adresare bbb = 317
+319
+--wx--xrwx aaa
+chmod souboru aaa = 317
+d-wx--xrwx bbb
+chmod adresare bbb = 317
+320
+--wx-w---- aaa
+chmod souboru aaa = 320
+d-wx-w---- bbb
+chmod adresare bbb = 320
+321
+--wx-w---x aaa
+chmod souboru aaa = 321
+d-wx-w---x bbb
+chmod adresare bbb = 321
+322
+--wx-w--w- aaa
+chmod souboru aaa = 322
+d-wx-w--w- bbb
+chmod adresare bbb = 322
+323
+--wx-w--wx aaa
+chmod souboru aaa = 323
+d-wx-w--wx bbb
+chmod adresare bbb = 323
+324
+--wx-w-r-- aaa
+chmod souboru aaa = 324
+d-wx-w-r-- bbb
+chmod adresare bbb = 324
+325
+--wx-w-r-x aaa
+chmod souboru aaa = 325
+d-wx-w-r-x bbb
+chmod adresare bbb = 325
+326
+--wx-w-rw- aaa
+chmod souboru aaa = 326
+d-wx-w-rw- bbb
+chmod adresare bbb = 326
+327
+--wx-w-rwx aaa
+chmod souboru aaa = 327
+d-wx-w-rwx bbb
+chmod adresare bbb = 327
+328
+--wx-w-rwx aaa
+chmod souboru aaa = 327
+d-wx-w-rwx bbb
+chmod adresare bbb = 327
+329
+--wx-w-rwx aaa
+chmod souboru aaa = 327
+d-wx-w-rwx bbb
+chmod adresare bbb = 327
+330
+--wx-wx--- aaa
+chmod souboru aaa = 330
+d-wx-wx--- bbb
+chmod adresare bbb = 330
+331
+--wx-wx--x aaa
+chmod souboru aaa = 331
+d-wx-wx--x bbb
+chmod adresare bbb = 331
+332
+--wx-wx-w- aaa
+chmod souboru aaa = 332
+d-wx-wx-w- bbb
+chmod adresare bbb = 332
+333
+--wx-wx-wx aaa
+chmod souboru aaa = 333
+d-wx-wx-wx bbb
+chmod adresare bbb = 333
+334
+--wx-wxr-- aaa
+chmod souboru aaa = 334
+d-wx-wxr-- bbb
+chmod adresare bbb = 334
+335
+--wx-wxr-x aaa
+chmod souboru aaa = 335
+d-wx-wxr-x bbb
+chmod adresare bbb = 335
+336
+--wx-wxrw- aaa
+chmod souboru aaa = 336
+d-wx-wxrw- bbb
+chmod adresare bbb = 336
+337
+--wx-wxrwx aaa
+chmod souboru aaa = 337
+d-wx-wxrwx bbb
+chmod adresare bbb = 337
+338
+--wx-wxrwx aaa
+chmod souboru aaa = 337
+d-wx-wxrwx bbb
+chmod adresare bbb = 337
+339
+--wx-wxrwx aaa
+chmod souboru aaa = 337
+d-wx-wxrwx bbb
+chmod adresare bbb = 337
+340
+--wxr----- aaa
+chmod souboru aaa = 340
+d-wxr----- bbb
+chmod adresare bbb = 340
+341
+--wxr----x aaa
+chmod souboru aaa = 341
+d-wxr----x bbb
+chmod adresare bbb = 341
+342
+--wxr---w- aaa
+chmod souboru aaa = 342
+d-wxr---w- bbb
+chmod adresare bbb = 342
+343
+--wxr---wx aaa
+chmod souboru aaa = 343
+d-wxr---wx bbb
+chmod adresare bbb = 343
+344
+--wxr--r-- aaa
+chmod souboru aaa = 344
+d-wxr--r-- bbb
+chmod adresare bbb = 344
+345
+--wxr--r-x aaa
+chmod souboru aaa = 345
+d-wxr--r-x bbb
+chmod adresare bbb = 345
+346
+--wxr--rw- aaa
+chmod souboru aaa = 346
+d-wxr--rw- bbb
+chmod adresare bbb = 346
+347
+--wxr--rwx aaa
+chmod souboru aaa = 347
+d-wxr--rwx bbb
+chmod adresare bbb = 347
+348
+--wxr--rwx aaa
+chmod souboru aaa = 347
+d-wxr--rwx bbb
+chmod adresare bbb = 347
+349
+--wxr--rwx aaa
+chmod souboru aaa = 347
+d-wxr--rwx bbb
+chmod adresare bbb = 347
+350
+--wxr-x--- aaa
+chmod souboru aaa = 350
+d-wxr-x--- bbb
+chmod adresare bbb = 350
+351
+--wxr-x--x aaa
+chmod souboru aaa = 351
+d-wxr-x--x bbb
+chmod adresare bbb = 351
+352
+--wxr-x-w- aaa
+chmod souboru aaa = 352
+d-wxr-x-w- bbb
+chmod adresare bbb = 352
+353
+--wxr-x-wx aaa
+chmod souboru aaa = 353
+d-wxr-x-wx bbb
+chmod adresare bbb = 353
+354
+--wxr-xr-- aaa
+chmod souboru aaa = 354
+d-wxr-xr-- bbb
+chmod adresare bbb = 354
+355
+--wxr-xr-x aaa
+chmod souboru aaa = 355
+d-wxr-xr-x bbb
+chmod adresare bbb = 355
+356
+--wxr-xrw- aaa
+chmod souboru aaa = 356
+d-wxr-xrw- bbb
+chmod adresare bbb = 356
+357
+--wxr-xrwx aaa
+chmod souboru aaa = 357
+d-wxr-xrwx bbb
+chmod adresare bbb = 357
+358
+--wxr-xrwx aaa
+chmod souboru aaa = 357
+d-wxr-xrwx bbb
+chmod adresare bbb = 357
+359
+--wxr-xrwx aaa
+chmod souboru aaa = 357
+d-wxr-xrwx bbb
+chmod adresare bbb = 357
+360
+--wxrw---- aaa
+chmod souboru aaa = 360
+d-wxrw---- bbb
+chmod adresare bbb = 360
+361
+--wxrw---x aaa
+chmod souboru aaa = 361
+d-wxrw---x bbb
+chmod adresare bbb = 361
+362
+--wxrw--w- aaa
+chmod souboru aaa = 362
+d-wxrw--w- bbb
+chmod adresare bbb = 362
+363
+--wxrw--wx aaa
+chmod souboru aaa = 363
+d-wxrw--wx bbb
+chmod adresare bbb = 363
+364
+--wxrw-r-- aaa
+chmod souboru aaa = 364
+d-wxrw-r-- bbb
+chmod adresare bbb = 364
+365
+--wxrw-r-x aaa
+chmod souboru aaa = 365
+d-wxrw-r-x bbb
+chmod adresare bbb = 365
+366
+--wxrw-rw- aaa
+chmod souboru aaa = 366
+d-wxrw-rw- bbb
+chmod adresare bbb = 366
+367
+--wxrw-rwx aaa
+chmod souboru aaa = 367
+d-wxrw-rwx bbb
+chmod adresare bbb = 367
+368
+--wxrw-rwx aaa
+chmod souboru aaa = 367
+d-wxrw-rwx bbb
+chmod adresare bbb = 367
+369
+--wxrw-rwx aaa
+chmod souboru aaa = 367
+d-wxrw-rwx bbb
+chmod adresare bbb = 367
+370
+--wxrwx--- aaa
+chmod souboru aaa = 370
+d-wxrwx--- bbb
+chmod adresare bbb = 370
+371
+--wxrwx--x aaa
+chmod souboru aaa = 371
+d-wxrwx--x bbb
+chmod adresare bbb = 371
+372
+--wxrwx-w- aaa
+chmod souboru aaa = 372
+d-wxrwx-w- bbb
+chmod adresare bbb = 372
+373
+--wxrwx-wx aaa
+chmod souboru aaa = 373
+d-wxrwx-wx bbb
+chmod adresare bbb = 373
+374
+--wxrwxr-- aaa
+chmod souboru aaa = 374
+d-wxrwxr-- bbb
+chmod adresare bbb = 374
+375
+--wxrwxr-x aaa
+chmod souboru aaa = 375
+d-wxrwxr-x bbb
+chmod adresare bbb = 375
+376
+--wxrwxrw- aaa
+chmod souboru aaa = 376
+d-wxrwxrw- bbb
+chmod adresare bbb = 376
+377
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+378
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+379
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+380
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+381
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+382
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+383
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+384
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+385
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+386
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+387
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+388
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+389
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+390
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+391
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+392
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+393
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+394
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+395
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+396
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+397
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+398
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+399
+--wxrwxrwx aaa
+chmod souboru aaa = 377
+d-wxrwxrwx bbb
+chmod adresare bbb = 377
+400
+-r-------- aaa
+chmod souboru aaa = 400
+dr-------- bbb
+chmod adresare bbb = 400
+401
+-r-------x aaa
+chmod souboru aaa = 401
+dr-------x bbb
+chmod adresare bbb = 401
+402
+-r------w- aaa
+chmod souboru aaa = 402
+dr------w- bbb
+chmod adresare bbb = 402
+403
+-r------wx aaa
+chmod souboru aaa = 403
+dr------wx bbb
+chmod adresare bbb = 403
+404
+-r-----r-- aaa
+chmod souboru aaa = 404
+dr-----r-- bbb
+chmod adresare bbb = 404
+405
+-r-----r-x aaa
+chmod souboru aaa = 405
+dr-----r-x bbb
+chmod adresare bbb = 405
+406
+-r-----rw- aaa
+chmod souboru aaa = 406
+dr-----rw- bbb
+chmod adresare bbb = 406
+407
+-r-----rwx aaa
+chmod souboru aaa = 407
+dr-----rwx bbb
+chmod adresare bbb = 407
+408
+-r-----rwx aaa
+chmod souboru aaa = 407
+dr-----rwx bbb
+chmod adresare bbb = 407
+409
+-r-----rwx aaa
+chmod souboru aaa = 407
+dr-----rwx bbb
+chmod adresare bbb = 407
+410
+-r----x--- aaa
+chmod souboru aaa = 410
+dr----x--- bbb
+chmod adresare bbb = 410
+411
+-r----x--x aaa
+chmod souboru aaa = 411
+dr----x--x bbb
+chmod adresare bbb = 411
+412
+-r----x-w- aaa
+chmod souboru aaa = 412
+dr----x-w- bbb
+chmod adresare bbb = 412
+413
+-r----x-wx aaa
+chmod souboru aaa = 413
+dr----x-wx bbb
+chmod adresare bbb = 413
+414
+-r----xr-- aaa
+chmod souboru aaa = 414
+dr----xr-- bbb
+chmod adresare bbb = 414
+415
+-r----xr-x aaa
+chmod souboru aaa = 415
+dr----xr-x bbb
+chmod adresare bbb = 415
+416
+-r----xrw- aaa
+chmod souboru aaa = 416
+dr----xrw- bbb
+chmod adresare bbb = 416
+417
+-r----xrwx aaa
+chmod souboru aaa = 417
+dr----xrwx bbb
+chmod adresare bbb = 417
+418
+-r----xrwx aaa
+chmod souboru aaa = 417
+dr----xrwx bbb
+chmod adresare bbb = 417
+419
+-r----xrwx aaa
+chmod souboru aaa = 417
+dr----xrwx bbb
+chmod adresare bbb = 417
+420
+-r---w---- aaa
+chmod souboru aaa = 420
+dr---w---- bbb
+chmod adresare bbb = 420
+421
+-r---w---x aaa
+chmod souboru aaa = 421
+dr---w---x bbb
+chmod adresare bbb = 421
+422
+-r---w--w- aaa
+chmod souboru aaa = 422
+dr---w--w- bbb
+chmod adresare bbb = 422
+423
+-r---w--wx aaa
+chmod souboru aaa = 423
+dr---w--wx bbb
+chmod adresare bbb = 423
+424
+-r---w-r-- aaa
+chmod souboru aaa = 424
+dr---w-r-- bbb
+chmod adresare bbb = 424
+425
+-r---w-r-x aaa
+chmod souboru aaa = 425
+dr---w-r-x bbb
+chmod adresare bbb = 425
+426
+-r---w-rw- aaa
+chmod souboru aaa = 426
+dr---w-rw- bbb
+chmod adresare bbb = 426
+427
+-r---w-rwx aaa
+chmod souboru aaa = 427
+dr---w-rwx bbb
+chmod adresare bbb = 427
+428
+-r---w-rwx aaa
+chmod souboru aaa = 427
+dr---w-rwx bbb
+chmod adresare bbb = 427
+429
+-r---w-rwx aaa
+chmod souboru aaa = 427
+dr---w-rwx bbb
+chmod adresare bbb = 427
+430
+-r---wx--- aaa
+chmod souboru aaa = 430
+dr---wx--- bbb
+chmod adresare bbb = 430
+431
+-r---wx--x aaa
+chmod souboru aaa = 431
+dr---wx--x bbb
+chmod adresare bbb = 431
+432
+-r---wx-w- aaa
+chmod souboru aaa = 432
+dr---wx-w- bbb
+chmod adresare bbb = 432
+433
+-r---wx-wx aaa
+chmod souboru aaa = 433
+dr---wx-wx bbb
+chmod adresare bbb = 433
+434
+-r---wxr-- aaa
+chmod souboru aaa = 434
+dr---wxr-- bbb
+chmod adresare bbb = 434
+435
+-r---wxr-x aaa
+chmod souboru aaa = 435
+dr---wxr-x bbb
+chmod adresare bbb = 435
+436
+-r---wxrw- aaa
+chmod souboru aaa = 436
+dr---wxrw- bbb
+chmod adresare bbb = 436
+437
+-r---wxrwx aaa
+chmod souboru aaa = 437
+dr---wxrwx bbb
+chmod adresare bbb = 437
+438
+-r---wxrwx aaa
+chmod souboru aaa = 437
+dr---wxrwx bbb
+chmod adresare bbb = 437
+439
+-r---wxrwx aaa
+chmod souboru aaa = 437
+dr---wxrwx bbb
+chmod adresare bbb = 437
+440
+-r--r----- aaa
+chmod souboru aaa = 440
+dr--r----- bbb
+chmod adresare bbb = 440
+441
+-r--r----x aaa
+chmod souboru aaa = 441
+dr--r----x bbb
+chmod adresare bbb = 441
+442
+-r--r---w- aaa
+chmod souboru aaa = 442
+dr--r---w- bbb
+chmod adresare bbb = 442
+443
+-r--r---wx aaa
+chmod souboru aaa = 443
+dr--r---wx bbb
+chmod adresare bbb = 443
+444
+-r--r--r-- aaa
+chmod souboru aaa = 444
+dr--r--r-- bbb
+chmod adresare bbb = 444
+445
+-r--r--r-x aaa
+chmod souboru aaa = 445
+dr--r--r-x bbb
+chmod adresare bbb = 445
+446
+-r--r--rw- aaa
+chmod souboru aaa = 446
+dr--r--rw- bbb
+chmod adresare bbb = 446
+447
+-r--r--rwx aaa
+chmod souboru aaa = 447
+dr--r--rwx bbb
+chmod adresare bbb = 447
+448
+-r--r--rwx aaa
+chmod souboru aaa = 447
+dr--r--rwx bbb
+chmod adresare bbb = 447
+449
+-r--r--rwx aaa
+chmod souboru aaa = 447
+dr--r--rwx bbb
+chmod adresare bbb = 447
+450
+-r--r-x--- aaa
+chmod souboru aaa = 450
+dr--r-x--- bbb
+chmod adresare bbb = 450
+451
+-r--r-x--x aaa
+chmod souboru aaa = 451
+dr--r-x--x bbb
+chmod adresare bbb = 451
+452
+-r--r-x-w- aaa
+chmod souboru aaa = 452
+dr--r-x-w- bbb
+chmod adresare bbb = 452
+453
+-r--r-x-wx aaa
+chmod souboru aaa = 453
+dr--r-x-wx bbb
+chmod adresare bbb = 453
+454
+-r--r-xr-- aaa
+chmod souboru aaa = 454
+dr--r-xr-- bbb
+chmod adresare bbb = 454
+455
+-r--r-xr-x aaa
+chmod souboru aaa = 455
+dr--r-xr-x bbb
+chmod adresare bbb = 455
+456
+-r--r-xrw- aaa
+chmod souboru aaa = 456
+dr--r-xrw- bbb
+chmod adresare bbb = 456
+457
+-r--r-xrwx aaa
+chmod souboru aaa = 457
+dr--r-xrwx bbb
+chmod adresare bbb = 457
+458
+-r--r-xrwx aaa
+chmod souboru aaa = 457
+dr--r-xrwx bbb
+chmod adresare bbb = 457
+459
+-r--r-xrwx aaa
+chmod souboru aaa = 457
+dr--r-xrwx bbb
+chmod adresare bbb = 457
+460
+-r--rw---- aaa
+chmod souboru aaa = 460
+dr--rw---- bbb
+chmod adresare bbb = 460
+461
+-r--rw---x aaa
+chmod souboru aaa = 461
+dr--rw---x bbb
+chmod adresare bbb = 461
+462
+-r--rw--w- aaa
+chmod souboru aaa = 462
+dr--rw--w- bbb
+chmod adresare bbb = 462
+463
+-r--rw--wx aaa
+chmod souboru aaa = 463
+dr--rw--wx bbb
+chmod adresare bbb = 463
+464
+-r--rw-r-- aaa
+chmod souboru aaa = 464
+dr--rw-r-- bbb
+chmod adresare bbb = 464
+465
+-r--rw-r-x aaa
+chmod souboru aaa = 465
+dr--rw-r-x bbb
+chmod adresare bbb = 465
+466
+-r--rw-rw- aaa
+chmod souboru aaa = 466
+dr--rw-rw- bbb
+chmod adresare bbb = 466
+467
+-r--rw-rwx aaa
+chmod souboru aaa = 467
+dr--rw-rwx bbb
+chmod adresare bbb = 467
+468
+-r--rw-rwx aaa
+chmod souboru aaa = 467
+dr--rw-rwx bbb
+chmod adresare bbb = 467
+469
+-r--rw-rwx aaa
+chmod souboru aaa = 467
+dr--rw-rwx bbb
+chmod adresare bbb = 467
+470
+-r--rwx--- aaa
+chmod souboru aaa = 470
+dr--rwx--- bbb
+chmod adresare bbb = 470
+471
+-r--rwx--x aaa
+chmod souboru aaa = 471
+dr--rwx--x bbb
+chmod adresare bbb = 471
+472
+-r--rwx-w- aaa
+chmod souboru aaa = 472
+dr--rwx-w- bbb
+chmod adresare bbb = 472
+473
+-r--rwx-wx aaa
+chmod souboru aaa = 473
+dr--rwx-wx bbb
+chmod adresare bbb = 473
+474
+-r--rwxr-- aaa
+chmod souboru aaa = 474
+dr--rwxr-- bbb
+chmod adresare bbb = 474
+475
+-r--rwxr-x aaa
+chmod souboru aaa = 475
+dr--rwxr-x bbb
+chmod adresare bbb = 475
+476
+-r--rwxrw- aaa
+chmod souboru aaa = 476
+dr--rwxrw- bbb
+chmod adresare bbb = 476
+477
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+478
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+479
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+480
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+481
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+482
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+483
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+484
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+485
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+486
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+487
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+488
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+489
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+490
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+491
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+492
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+493
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+494
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+495
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+496
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+497
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+498
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+499
+-r--rwxrwx aaa
+chmod souboru aaa = 477
+dr--rwxrwx bbb
+chmod adresare bbb = 477
+500
+-r-x------ aaa
+chmod souboru aaa = 500
+dr-x------ bbb
+chmod adresare bbb = 500
+501
+-r-x-----x aaa
+chmod souboru aaa = 501
+dr-x-----x bbb
+chmod adresare bbb = 501
+502
+-r-x----w- aaa
+chmod souboru aaa = 502
+dr-x----w- bbb
+chmod adresare bbb = 502
+503
+-r-x----wx aaa
+chmod souboru aaa = 503
+dr-x----wx bbb
+chmod adresare bbb = 503
+504
+-r-x---r-- aaa
+chmod souboru aaa = 504
+dr-x---r-- bbb
+chmod adresare bbb = 504
+505
+-r-x---r-x aaa
+chmod souboru aaa = 505
+dr-x---r-x bbb
+chmod adresare bbb = 505
+506
+-r-x---rw- aaa
+chmod souboru aaa = 506
+dr-x---rw- bbb
+chmod adresare bbb = 506
+507
+-r-x---rwx aaa
+chmod souboru aaa = 507
+dr-x---rwx bbb
+chmod adresare bbb = 507
+508
+-r-x---rwx aaa
+chmod souboru aaa = 507
+dr-x---rwx bbb
+chmod adresare bbb = 507
+509
+-r-x---rwx aaa
+chmod souboru aaa = 507
+dr-x---rwx bbb
+chmod adresare bbb = 507
+510
+-r-x--x--- aaa
+chmod souboru aaa = 510
+dr-x--x--- bbb
+chmod adresare bbb = 510
+511
+-r-x--x--x aaa
+chmod souboru aaa = 511
+dr-x--x--x bbb
+chmod adresare bbb = 511
+512
+-r-x--x-w- aaa
+chmod souboru aaa = 512
+dr-x--x-w- bbb
+chmod adresare bbb = 512
+513
+-r-x--x-wx aaa
+chmod souboru aaa = 513
+dr-x--x-wx bbb
+chmod adresare bbb = 513
+514
+-r-x--xr-- aaa
+chmod souboru aaa = 514
+dr-x--xr-- bbb
+chmod adresare bbb = 514
+515
+-r-x--xr-x aaa
+chmod souboru aaa = 515
+dr-x--xr-x bbb
+chmod adresare bbb = 515
+516
+-r-x--xrw- aaa
+chmod souboru aaa = 516
+dr-x--xrw- bbb
+chmod adresare bbb = 516
+517
+-r-x--xrwx aaa
+chmod souboru aaa = 517
+dr-x--xrwx bbb
+chmod adresare bbb = 517
+518
+-r-x--xrwx aaa
+chmod souboru aaa = 517
+dr-x--xrwx bbb
+chmod adresare bbb = 517
+519
+-r-x--xrwx aaa
+chmod souboru aaa = 517
+dr-x--xrwx bbb
+chmod adresare bbb = 517
+520
+-r-x-w---- aaa
+chmod souboru aaa = 520
+dr-x-w---- bbb
+chmod adresare bbb = 520
+521
+-r-x-w---x aaa
+chmod souboru aaa = 521
+dr-x-w---x bbb
+chmod adresare bbb = 521
+522
+-r-x-w--w- aaa
+chmod souboru aaa = 522
+dr-x-w--w- bbb
+chmod adresare bbb = 522
+523
+-r-x-w--wx aaa
+chmod souboru aaa = 523
+dr-x-w--wx bbb
+chmod adresare bbb = 523
+524
+-r-x-w-r-- aaa
+chmod souboru aaa = 524
+dr-x-w-r-- bbb
+chmod adresare bbb = 524
+525
+-r-x-w-r-x aaa
+chmod souboru aaa = 525
+dr-x-w-r-x bbb
+chmod adresare bbb = 525
+526
+-r-x-w-rw- aaa
+chmod souboru aaa = 526
+dr-x-w-rw- bbb
+chmod adresare bbb = 526
+527
+-r-x-w-rwx aaa
+chmod souboru aaa = 527
+dr-x-w-rwx bbb
+chmod adresare bbb = 527
+528
+-r-x-w-rwx aaa
+chmod souboru aaa = 527
+dr-x-w-rwx bbb
+chmod adresare bbb = 527
+529
+-r-x-w-rwx aaa
+chmod souboru aaa = 527
+dr-x-w-rwx bbb
+chmod adresare bbb = 527
+530
+-r-x-wx--- aaa
+chmod souboru aaa = 530
+dr-x-wx--- bbb
+chmod adresare bbb = 530
+531
+-r-x-wx--x aaa
+chmod souboru aaa = 531
+dr-x-wx--x bbb
+chmod adresare bbb = 531
+532
+-r-x-wx-w- aaa
+chmod souboru aaa = 532
+dr-x-wx-w- bbb
+chmod adresare bbb = 532
+533
+-r-x-wx-wx aaa
+chmod souboru aaa = 533
+dr-x-wx-wx bbb
+chmod adresare bbb = 533
+534
+-r-x-wxr-- aaa
+chmod souboru aaa = 534
+dr-x-wxr-- bbb
+chmod adresare bbb = 534
+535
+-r-x-wxr-x aaa
+chmod souboru aaa = 535
+dr-x-wxr-x bbb
+chmod adresare bbb = 535
+536
+-r-x-wxrw- aaa
+chmod souboru aaa = 536
+dr-x-wxrw- bbb
+chmod adresare bbb = 536
+537
+-r-x-wxrwx aaa
+chmod souboru aaa = 537
+dr-x-wxrwx bbb
+chmod adresare bbb = 537
+538
+-r-x-wxrwx aaa
+chmod souboru aaa = 537
+dr-x-wxrwx bbb
+chmod adresare bbb = 537
+539
+-r-x-wxrwx aaa
+chmod souboru aaa = 537
+dr-x-wxrwx bbb
+chmod adresare bbb = 537
+540
+-r-xr----- aaa
+chmod souboru aaa = 540
+dr-xr----- bbb
+chmod adresare bbb = 540
+541
+-r-xr----x aaa
+chmod souboru aaa = 541
+dr-xr----x bbb
+chmod adresare bbb = 541
+542
+-r-xr---w- aaa
+chmod souboru aaa = 542
+dr-xr---w- bbb
+chmod adresare bbb = 542
+543
+-r-xr---wx aaa
+chmod souboru aaa = 543
+dr-xr---wx bbb
+chmod adresare bbb = 543
+544
+-r-xr--r-- aaa
+chmod souboru aaa = 544
+dr-xr--r-- bbb
+chmod adresare bbb = 544
+545
+-r-xr--r-x aaa
+chmod souboru aaa = 545
+dr-xr--r-x bbb
+chmod adresare bbb = 545
+546
+-r-xr--rw- aaa
+chmod souboru aaa = 546
+dr-xr--rw- bbb
+chmod adresare bbb = 546
+547
+-r-xr--rwx aaa
+chmod souboru aaa = 547
+dr-xr--rwx bbb
+chmod adresare bbb = 547
+548
+-r-xr--rwx aaa
+chmod souboru aaa = 547
+dr-xr--rwx bbb
+chmod adresare bbb = 547
+549
+-r-xr--rwx aaa
+chmod souboru aaa = 547
+dr-xr--rwx bbb
+chmod adresare bbb = 547
+550
+-r-xr-x--- aaa
+chmod souboru aaa = 550
+dr-xr-x--- bbb
+chmod adresare bbb = 550
+551
+-r-xr-x--x aaa
+chmod souboru aaa = 551
+dr-xr-x--x bbb
+chmod adresare bbb = 551
+552
+-r-xr-x-w- aaa
+chmod souboru aaa = 552
+dr-xr-x-w- bbb
+chmod adresare bbb = 552
+553
+-r-xr-x-wx aaa
+chmod souboru aaa = 553
+dr-xr-x-wx bbb
+chmod adresare bbb = 553
+554
+-r-xr-xr-- aaa
+chmod souboru aaa = 554
+dr-xr-xr-- bbb
+chmod adresare bbb = 554
+555
+-r-xr-xr-x aaa
+chmod souboru aaa = 555
+dr-xr-xr-x bbb
+chmod adresare bbb = 555
+556
+-r-xr-xrw- aaa
+chmod souboru aaa = 556
+dr-xr-xrw- bbb
+chmod adresare bbb = 556
+557
+-r-xr-xrwx aaa
+chmod souboru aaa = 557
+dr-xr-xrwx bbb
+chmod adresare bbb = 557
+558
+-r-xr-xrwx aaa
+chmod souboru aaa = 557
+dr-xr-xrwx bbb
+chmod adresare bbb = 557
+559
+-r-xr-xrwx aaa
+chmod souboru aaa = 557
+dr-xr-xrwx bbb
+chmod adresare bbb = 557
+560
+-r-xrw---- aaa
+chmod souboru aaa = 560
+dr-xrw---- bbb
+chmod adresare bbb = 560
+561
+-r-xrw---x aaa
+chmod souboru aaa = 561
+dr-xrw---x bbb
+chmod adresare bbb = 561
+562
+-r-xrw--w- aaa
+chmod souboru aaa = 562
+dr-xrw--w- bbb
+chmod adresare bbb = 562
+563
+-r-xrw--wx aaa
+chmod souboru aaa = 563
+dr-xrw--wx bbb
+chmod adresare bbb = 563
+564
+-r-xrw-r-- aaa
+chmod souboru aaa = 564
+dr-xrw-r-- bbb
+chmod adresare bbb = 564
+565
+-r-xrw-r-x aaa
+chmod souboru aaa = 565
+dr-xrw-r-x bbb
+chmod adresare bbb = 565
+566
+-r-xrw-rw- aaa
+chmod souboru aaa = 566
+dr-xrw-rw- bbb
+chmod adresare bbb = 566
+567
+-r-xrw-rwx aaa
+chmod souboru aaa = 567
+dr-xrw-rwx bbb
+chmod adresare bbb = 567
+568
+-r-xrw-rwx aaa
+chmod souboru aaa = 567
+dr-xrw-rwx bbb
+chmod adresare bbb = 567
+569
+-r-xrw-rwx aaa
+chmod souboru aaa = 567
+dr-xrw-rwx bbb
+chmod adresare bbb = 567
+570
+-r-xrwx--- aaa
+chmod souboru aaa = 570
+dr-xrwx--- bbb
+chmod adresare bbb = 570
+571
+-r-xrwx--x aaa
+chmod souboru aaa = 571
+dr-xrwx--x bbb
+chmod adresare bbb = 571
+572
+-r-xrwx-w- aaa
+chmod souboru aaa = 572
+dr-xrwx-w- bbb
+chmod adresare bbb = 572
+573
+-r-xrwx-wx aaa
+chmod souboru aaa = 573
+dr-xrwx-wx bbb
+chmod adresare bbb = 573
+574
+-r-xrwxr-- aaa
+chmod souboru aaa = 574
+dr-xrwxr-- bbb
+chmod adresare bbb = 574
+575
+-r-xrwxr-x aaa
+chmod souboru aaa = 575
+dr-xrwxr-x bbb
+chmod adresare bbb = 575
+576
+-r-xrwxrw- aaa
+chmod souboru aaa = 576
+dr-xrwxrw- bbb
+chmod adresare bbb = 576
+577
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+578
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+579
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+580
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+581
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+582
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+583
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+584
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+585
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+586
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+587
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+588
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+589
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+590
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+591
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+592
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+593
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+594
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+595
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+596
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+597
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+598
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+599
+-r-xrwxrwx aaa
+chmod souboru aaa = 577
+dr-xrwxrwx bbb
+chmod adresare bbb = 577
+600
+-rw------- aaa
+chmod souboru aaa = 600
+drw------- bbb
+chmod adresare bbb = 600
+601
+-rw------x aaa
+chmod souboru aaa = 601
+drw------x bbb
+chmod adresare bbb = 601
+602
+-rw-----w- aaa
+chmod souboru aaa = 602
+drw-----w- bbb
+chmod adresare bbb = 602
+603
+-rw-----wx aaa
+chmod souboru aaa = 603
+drw-----wx bbb
+chmod adresare bbb = 603
+604
+-rw----r-- aaa
+chmod souboru aaa = 604
+drw----r-- bbb
+chmod adresare bbb = 604
+605
+-rw----r-x aaa
+chmod souboru aaa = 605
+drw----r-x bbb
+chmod adresare bbb = 605
+606
+-rw----rw- aaa
+chmod souboru aaa = 606
+drw----rw- bbb
+chmod adresare bbb = 606
+607
+-rw----rwx aaa
+chmod souboru aaa = 607
+drw----rwx bbb
+chmod adresare bbb = 607
+608
+-rw----rwx aaa
+chmod souboru aaa = 607
+drw----rwx bbb
+chmod adresare bbb = 607
+609
+-rw----rwx aaa
+chmod souboru aaa = 607
+drw----rwx bbb
+chmod adresare bbb = 607
+610
+-rw---x--- aaa
+chmod souboru aaa = 610
+drw---x--- bbb
+chmod adresare bbb = 610
+611
+-rw---x--x aaa
+chmod souboru aaa = 611
+drw---x--x bbb
+chmod adresare bbb = 611
+612
+-rw---x-w- aaa
+chmod souboru aaa = 612
+drw---x-w- bbb
+chmod adresare bbb = 612
+613
+-rw---x-wx aaa
+chmod souboru aaa = 613
+drw---x-wx bbb
+chmod adresare bbb = 613
+614
+-rw---xr-- aaa
+chmod souboru aaa = 614
+drw---xr-- bbb
+chmod adresare bbb = 614
+615
+-rw---xr-x aaa
+chmod souboru aaa = 615
+drw---xr-x bbb
+chmod adresare bbb = 615
+616
+-rw---xrw- aaa
+chmod souboru aaa = 616
+drw---xrw- bbb
+chmod adresare bbb = 616
+617
+-rw---xrwx aaa
+chmod souboru aaa = 617
+drw---xrwx bbb
+chmod adresare bbb = 617
+618
+-rw---xrwx aaa
+chmod souboru aaa = 617
+drw---xrwx bbb
+chmod adresare bbb = 617
+619
+-rw---xrwx aaa
+chmod souboru aaa = 617
+drw---xrwx bbb
+chmod adresare bbb = 617
+620
+-rw--w---- aaa
+chmod souboru aaa = 620
+drw--w---- bbb
+chmod adresare bbb = 620
+621
+-rw--w---x aaa
+chmod souboru aaa = 621
+drw--w---x bbb
+chmod adresare bbb = 621
+622
+-rw--w--w- aaa
+chmod souboru aaa = 622
+drw--w--w- bbb
+chmod adresare bbb = 622
+623
+-rw--w--wx aaa
+chmod souboru aaa = 623
+drw--w--wx bbb
+chmod adresare bbb = 623
+624
+-rw--w-r-- aaa
+chmod souboru aaa = 624
+drw--w-r-- bbb
+chmod adresare bbb = 624
+625
+-rw--w-r-x aaa
+chmod souboru aaa = 625
+drw--w-r-x bbb
+chmod adresare bbb = 625
+626
+-rw--w-rw- aaa
+chmod souboru aaa = 626
+drw--w-rw- bbb
+chmod adresare bbb = 626
+627
+-rw--w-rwx aaa
+chmod souboru aaa = 627
+drw--w-rwx bbb
+chmod adresare bbb = 627
+628
+-rw--w-rwx aaa
+chmod souboru aaa = 627
+drw--w-rwx bbb
+chmod adresare bbb = 627
+629
+-rw--w-rwx aaa
+chmod souboru aaa = 627
+drw--w-rwx bbb
+chmod adresare bbb = 627
+630
+-rw--wx--- aaa
+chmod souboru aaa = 630
+drw--wx--- bbb
+chmod adresare bbb = 630
+631
+-rw--wx--x aaa
+chmod souboru aaa = 631
+drw--wx--x bbb
+chmod adresare bbb = 631
+632
+-rw--wx-w- aaa
+chmod souboru aaa = 632
+drw--wx-w- bbb
+chmod adresare bbb = 632
+633
+-rw--wx-wx aaa
+chmod souboru aaa = 633
+drw--wx-wx bbb
+chmod adresare bbb = 633
+634
+-rw--wxr-- aaa
+chmod souboru aaa = 634
+drw--wxr-- bbb
+chmod adresare bbb = 634
+635
+-rw--wxr-x aaa
+chmod souboru aaa = 635
+drw--wxr-x bbb
+chmod adresare bbb = 635
+636
+-rw--wxrw- aaa
+chmod souboru aaa = 636
+drw--wxrw- bbb
+chmod adresare bbb = 636
+637
+-rw--wxrwx aaa
+chmod souboru aaa = 637
+drw--wxrwx bbb
+chmod adresare bbb = 637
+638
+-rw--wxrwx aaa
+chmod souboru aaa = 637
+drw--wxrwx bbb
+chmod adresare bbb = 637
+639
+-rw--wxrwx aaa
+chmod souboru aaa = 637
+drw--wxrwx bbb
+chmod adresare bbb = 637
+640
+-rw-r----- aaa
+chmod souboru aaa = 640
+drw-r----- bbb
+chmod adresare bbb = 640
+641
+-rw-r----x aaa
+chmod souboru aaa = 641
+drw-r----x bbb
+chmod adresare bbb = 641
+642
+-rw-r---w- aaa
+chmod souboru aaa = 642
+drw-r---w- bbb
+chmod adresare bbb = 642
+643
+-rw-r---wx aaa
+chmod souboru aaa = 643
+drw-r---wx bbb
+chmod adresare bbb = 643
+644
+-rw-r--r-- aaa
+chmod souboru aaa = 644
+drw-r--r-- bbb
+chmod adresare bbb = 644
+645
+-rw-r--r-x aaa
+chmod souboru aaa = 645
+drw-r--r-x bbb
+chmod adresare bbb = 645
+646
+-rw-r--rw- aaa
+chmod souboru aaa = 646
+drw-r--rw- bbb
+chmod adresare bbb = 646
+647
+-rw-r--rwx aaa
+chmod souboru aaa = 647
+drw-r--rwx bbb
+chmod adresare bbb = 647
+648
+-rw-r--rwx aaa
+chmod souboru aaa = 647
+drw-r--rwx bbb
+chmod adresare bbb = 647
+649
+-rw-r--rwx aaa
+chmod souboru aaa = 647
+drw-r--rwx bbb
+chmod adresare bbb = 647
+650
+-rw-r-x--- aaa
+chmod souboru aaa = 650
+drw-r-x--- bbb
+chmod adresare bbb = 650
+651
+-rw-r-x--x aaa
+chmod souboru aaa = 651
+drw-r-x--x bbb
+chmod adresare bbb = 651
+652
+-rw-r-x-w- aaa
+chmod souboru aaa = 652
+drw-r-x-w- bbb
+chmod adresare bbb = 652
+653
+-rw-r-x-wx aaa
+chmod souboru aaa = 653
+drw-r-x-wx bbb
+chmod adresare bbb = 653
+654
+-rw-r-xr-- aaa
+chmod souboru aaa = 654
+drw-r-xr-- bbb
+chmod adresare bbb = 654
+655
+-rw-r-xr-x aaa
+chmod souboru aaa = 655
+drw-r-xr-x bbb
+chmod adresare bbb = 655
+656
+-rw-r-xrw- aaa
+chmod souboru aaa = 656
+drw-r-xrw- bbb
+chmod adresare bbb = 656
+657
+-rw-r-xrwx aaa
+chmod souboru aaa = 657
+drw-r-xrwx bbb
+chmod adresare bbb = 657
+658
+-rw-r-xrwx aaa
+chmod souboru aaa = 657
+drw-r-xrwx bbb
+chmod adresare bbb = 657
+659
+-rw-r-xrwx aaa
+chmod souboru aaa = 657
+drw-r-xrwx bbb
+chmod adresare bbb = 657
+660
+-rw-rw---- aaa
+chmod souboru aaa = 660
+drw-rw---- bbb
+chmod adresare bbb = 660
+661
+-rw-rw---x aaa
+chmod souboru aaa = 661
+drw-rw---x bbb
+chmod adresare bbb = 661
+662
+-rw-rw--w- aaa
+chmod souboru aaa = 662
+drw-rw--w- bbb
+chmod adresare bbb = 662
+663
+-rw-rw--wx aaa
+chmod souboru aaa = 663
+drw-rw--wx bbb
+chmod adresare bbb = 663
+664
+-rw-rw-r-- aaa
+chmod souboru aaa = 664
+drw-rw-r-- bbb
+chmod adresare bbb = 664
+665
+-rw-rw-r-x aaa
+chmod souboru aaa = 665
+drw-rw-r-x bbb
+chmod adresare bbb = 665
+666
+-rw-rw-rw- aaa
+chmod souboru aaa = 666
+drw-rw-rw- bbb
+chmod adresare bbb = 666
+667
+-rw-rw-rwx aaa
+chmod souboru aaa = 667
+drw-rw-rwx bbb
+chmod adresare bbb = 667
+668
+-rw-rw-rwx aaa
+chmod souboru aaa = 667
+drw-rw-rwx bbb
+chmod adresare bbb = 667
+669
+-rw-rw-rwx aaa
+chmod souboru aaa = 667
+drw-rw-rwx bbb
+chmod adresare bbb = 667
+670
+-rw-rwx--- aaa
+chmod souboru aaa = 670
+drw-rwx--- bbb
+chmod adresare bbb = 670
+671
+-rw-rwx--x aaa
+chmod souboru aaa = 671
+drw-rwx--x bbb
+chmod adresare bbb = 671
+672
+-rw-rwx-w- aaa
+chmod souboru aaa = 672
+drw-rwx-w- bbb
+chmod adresare bbb = 672
+673
+-rw-rwx-wx aaa
+chmod souboru aaa = 673
+drw-rwx-wx bbb
+chmod adresare bbb = 673
+674
+-rw-rwxr-- aaa
+chmod souboru aaa = 674
+drw-rwxr-- bbb
+chmod adresare bbb = 674
+675
+-rw-rwxr-x aaa
+chmod souboru aaa = 675
+drw-rwxr-x bbb
+chmod adresare bbb = 675
+676
+-rw-rwxrw- aaa
+chmod souboru aaa = 676
+drw-rwxrw- bbb
+chmod adresare bbb = 676
+677
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+678
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+679
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+680
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+681
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+682
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+683
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+684
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+685
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+686
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+687
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+688
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+689
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+690
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+691
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+692
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+693
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+694
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+695
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+696
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+697
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+698
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+699
+-rw-rwxrwx aaa
+chmod souboru aaa = 677
+drw-rwxrwx bbb
+chmod adresare bbb = 677
+700
+-rwx------ aaa
+chmod souboru aaa = 700
+drwx------ bbb
+chmod adresare bbb = 700
+701
+-rwx-----x aaa
+chmod souboru aaa = 701
+drwx-----x bbb
+chmod adresare bbb = 701
+702
+-rwx----w- aaa
+chmod souboru aaa = 702
+drwx----w- bbb
+chmod adresare bbb = 702
+703
+-rwx----wx aaa
+chmod souboru aaa = 703
+drwx----wx bbb
+chmod adresare bbb = 703
+704
+-rwx---r-- aaa
+chmod souboru aaa = 704
+drwx---r-- bbb
+chmod adresare bbb = 704
+705
+-rwx---r-x aaa
+chmod souboru aaa = 705
+drwx---r-x bbb
+chmod adresare bbb = 705
+706
+-rwx---rw- aaa
+chmod souboru aaa = 706
+drwx---rw- bbb
+chmod adresare bbb = 706
+707
+-rwx---rwx aaa
+chmod souboru aaa = 707
+drwx---rwx bbb
+chmod adresare bbb = 707
+708
+-rwx---rwx aaa
+chmod souboru aaa = 707
+drwx---rwx bbb
+chmod adresare bbb = 707
+709
+-rwx---rwx aaa
+chmod souboru aaa = 707
+drwx---rwx bbb
+chmod adresare bbb = 707
+710
+-rwx--x--- aaa
+chmod souboru aaa = 710
+drwx--x--- bbb
+chmod adresare bbb = 710
+711
+-rwx--x--x aaa
+chmod souboru aaa = 711
+drwx--x--x bbb
+chmod adresare bbb = 711
+712
+-rwx--x-w- aaa
+chmod souboru aaa = 712
+drwx--x-w- bbb
+chmod adresare bbb = 712
+713
+-rwx--x-wx aaa
+chmod souboru aaa = 713
+drwx--x-wx bbb
+chmod adresare bbb = 713
+714
+-rwx--xr-- aaa
+chmod souboru aaa = 714
+drwx--xr-- bbb
+chmod adresare bbb = 714
+715
+-rwx--xr-x aaa
+chmod souboru aaa = 715
+drwx--xr-x bbb
+chmod adresare bbb = 715
+716
+-rwx--xrw- aaa
+chmod souboru aaa = 716
+drwx--xrw- bbb
+chmod adresare bbb = 716
+717
+-rwx--xrwx aaa
+chmod souboru aaa = 717
+drwx--xrwx bbb
+chmod adresare bbb = 717
+718
+-rwx--xrwx aaa
+chmod souboru aaa = 717
+drwx--xrwx bbb
+chmod adresare bbb = 717
+719
+-rwx--xrwx aaa
+chmod souboru aaa = 717
+drwx--xrwx bbb
+chmod adresare bbb = 717
+720
+-rwx-w---- aaa
+chmod souboru aaa = 720
+drwx-w---- bbb
+chmod adresare bbb = 720
+721
+-rwx-w---x aaa
+chmod souboru aaa = 721
+drwx-w---x bbb
+chmod adresare bbb = 721
+722
+-rwx-w--w- aaa
+chmod souboru aaa = 722
+drwx-w--w- bbb
+chmod adresare bbb = 722
+723
+-rwx-w--wx aaa
+chmod souboru aaa = 723
+drwx-w--wx bbb
+chmod adresare bbb = 723
+724
+-rwx-w-r-- aaa
+chmod souboru aaa = 724
+drwx-w-r-- bbb
+chmod adresare bbb = 724
+725
+-rwx-w-r-x aaa
+chmod souboru aaa = 725
+drwx-w-r-x bbb
+chmod adresare bbb = 725
+726
+-rwx-w-rw- aaa
+chmod souboru aaa = 726
+drwx-w-rw- bbb
+chmod adresare bbb = 726
+727
+-rwx-w-rwx aaa
+chmod souboru aaa = 727
+drwx-w-rwx bbb
+chmod adresare bbb = 727
+728
+-rwx-w-rwx aaa
+chmod souboru aaa = 727
+drwx-w-rwx bbb
+chmod adresare bbb = 727
+729
+-rwx-w-rwx aaa
+chmod souboru aaa = 727
+drwx-w-rwx bbb
+chmod adresare bbb = 727
+730
+-rwx-wx--- aaa
+chmod souboru aaa = 730
+drwx-wx--- bbb
+chmod adresare bbb = 730
+731
+-rwx-wx--x aaa
+chmod souboru aaa = 731
+drwx-wx--x bbb
+chmod adresare bbb = 731
+732
+-rwx-wx-w- aaa
+chmod souboru aaa = 732
+drwx-wx-w- bbb
+chmod adresare bbb = 732
+733
+-rwx-wx-wx aaa
+chmod souboru aaa = 733
+drwx-wx-wx bbb
+chmod adresare bbb = 733
+734
+-rwx-wxr-- aaa
+chmod souboru aaa = 734
+drwx-wxr-- bbb
+chmod adresare bbb = 734
+735
+-rwx-wxr-x aaa
+chmod souboru aaa = 735
+drwx-wxr-x bbb
+chmod adresare bbb = 735
+736
+-rwx-wxrw- aaa
+chmod souboru aaa = 736
+drwx-wxrw- bbb
+chmod adresare bbb = 736
+737
+-rwx-wxrwx aaa
+chmod souboru aaa = 737
+drwx-wxrwx bbb
+chmod adresare bbb = 737
+738
+-rwx-wxrwx aaa
+chmod souboru aaa = 737
+drwx-wxrwx bbb
+chmod adresare bbb = 737
+739
+-rwx-wxrwx aaa
+chmod souboru aaa = 737
+drwx-wxrwx bbb
+chmod adresare bbb = 737
+740
+-rwxr----- aaa
+chmod souboru aaa = 740
+drwxr----- bbb
+chmod adresare bbb = 740
+741
+-rwxr----x aaa
+chmod souboru aaa = 741
+drwxr----x bbb
+chmod adresare bbb = 741
+742
+-rwxr---w- aaa
+chmod souboru aaa = 742
+drwxr---w- bbb
+chmod adresare bbb = 742
+743
+-rwxr---wx aaa
+chmod souboru aaa = 743
+drwxr---wx bbb
+chmod adresare bbb = 743
+744
+-rwxr--r-- aaa
+chmod souboru aaa = 744
+drwxr--r-- bbb
+chmod adresare bbb = 744
+745
+-rwxr--r-x aaa
+chmod souboru aaa = 745
+drwxr--r-x bbb
+chmod adresare bbb = 745
+746
+-rwxr--rw- aaa
+chmod souboru aaa = 746
+drwxr--rw- bbb
+chmod adresare bbb = 746
+747
+-rwxr--rwx aaa
+chmod souboru aaa = 747
+drwxr--rwx bbb
+chmod adresare bbb = 747
+748
+-rwxr--rwx aaa
+chmod souboru aaa = 747
+drwxr--rwx bbb
+chmod adresare bbb = 747
+749
+-rwxr--rwx aaa
+chmod souboru aaa = 747
+drwxr--rwx bbb
+chmod adresare bbb = 747
+750
+-rwxr-x--- aaa
+chmod souboru aaa = 750
+drwxr-x--- bbb
+chmod adresare bbb = 750
+751
+-rwxr-x--x aaa
+chmod souboru aaa = 751
+drwxr-x--x bbb
+chmod adresare bbb = 751
+752
+-rwxr-x-w- aaa
+chmod souboru aaa = 752
+drwxr-x-w- bbb
+chmod adresare bbb = 752
+753
+-rwxr-x-wx aaa
+chmod souboru aaa = 753
+drwxr-x-wx bbb
+chmod adresare bbb = 753
+754
+-rwxr-xr-- aaa
+chmod souboru aaa = 754
+drwxr-xr-- bbb
+chmod adresare bbb = 754
+755
+-rwxr-xr-x aaa
+chmod souboru aaa = 755
+drwxr-xr-x bbb
+chmod adresare bbb = 755
+756
+-rwxr-xrw- aaa
+chmod souboru aaa = 756
+drwxr-xrw- bbb
+chmod adresare bbb = 756
+757
+-rwxr-xrwx aaa
+chmod souboru aaa = 757
+drwxr-xrwx bbb
+chmod adresare bbb = 757
+758
+-rwxr-xrwx aaa
+chmod souboru aaa = 757
+drwxr-xrwx bbb
+chmod adresare bbb = 757
+759
+-rwxr-xrwx aaa
+chmod souboru aaa = 757
+drwxr-xrwx bbb
+chmod adresare bbb = 757
+760
+-rwxrw---- aaa
+chmod souboru aaa = 760
+drwxrw---- bbb
+chmod adresare bbb = 760
+761
+-rwxrw---x aaa
+chmod souboru aaa = 761
+drwxrw---x bbb
+chmod adresare bbb = 761
+762
+-rwxrw--w- aaa
+chmod souboru aaa = 762
+drwxrw--w- bbb
+chmod adresare bbb = 762
+763
+-rwxrw--wx aaa
+chmod souboru aaa = 763
+drwxrw--wx bbb
+chmod adresare bbb = 763
+764
+-rwxrw-r-- aaa
+chmod souboru aaa = 764
+drwxrw-r-- bbb
+chmod adresare bbb = 764
+765
+-rwxrw-r-x aaa
+chmod souboru aaa = 765
+drwxrw-r-x bbb
+chmod adresare bbb = 765
+766
+-rwxrw-rw- aaa
+chmod souboru aaa = 766
+drwxrw-rw- bbb
+chmod adresare bbb = 766
+767
+-rwxrw-rwx aaa
+chmod souboru aaa = 767
+drwxrw-rwx bbb
+chmod adresare bbb = 767
+768
+-rwxrw-rwx aaa
+chmod souboru aaa = 767
+drwxrw-rwx bbb
+chmod adresare bbb = 767
+769
+-rwxrw-rwx aaa
+chmod souboru aaa = 767
+drwxrw-rwx bbb
+chmod adresare bbb = 767
+770
+-rwxrwx--- aaa
+chmod souboru aaa = 770
+drwxrwx--- bbb
+chmod adresare bbb = 770
+771
+-rwxrwx--x aaa
+chmod souboru aaa = 771
+drwxrwx--x bbb
+chmod adresare bbb = 771
+772
+-rwxrwx-w- aaa
+chmod souboru aaa = 772
+drwxrwx-w- bbb
+chmod adresare bbb = 772
+773
+-rwxrwx-wx aaa
+chmod souboru aaa = 773
+drwxrwx-wx bbb
+chmod adresare bbb = 773
+774
+-rwxrwxr-- aaa
+chmod souboru aaa = 774
+drwxrwxr-- bbb
+chmod adresare bbb = 774
+775
+-rwxrwxr-x aaa
+chmod souboru aaa = 775
+drwxrwxr-x bbb
+chmod adresare bbb = 775
+776
+-rwxrwxrw- aaa
+chmod souboru aaa = 776
+drwxrwxrw- bbb
+chmod adresare bbb = 776
+777
+-rwxrwxrwx aaa
+chmod souboru aaa = 777
+drwxrwxrwx bbb
+chmod adresare bbb = 777
